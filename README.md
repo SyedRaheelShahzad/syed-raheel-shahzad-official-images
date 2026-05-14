@@ -6,7 +6,7 @@ The primary official image archive is maintained at:
 
 https://syedraheelshahzad.com/official-author-images/
 
-This repository supports public image discovery, author identity alignment, book visibility, publication indexing, media reference, and institutional identity signals connected with Syed Raheel Shahzad, The Source of Truth System™, and The Syed Group.
+This repository supports public image discovery, author identity alignment, book visibility, publication indexing, media reference, AI crawler understanding, and institutional identity signals connected with Syed Raheel Shahzad, The Source of Truth System™, The Architect’s Protocol, and The Syed Group.
 
 ---
 
@@ -49,8 +49,11 @@ This repository is maintained as a public image reference page for official imag
 
 - Syed Raheel Shahzad author identity
 - Author photos and profile visuals
+- Institutional author identity images
+- Social media cover images
 - Book covers and book-series images
 - The Source of Truth System™ | نظام مصدر الحق
+- The Architect’s Protocol
 - Press release images
 - Publication graphics
 - Article featured images
@@ -63,15 +66,15 @@ https://syedraheelshahzad.com/official-author-images/
 
 ---
 
-## Image Categories
+## Image Archive Structure
 
 The official image archive is organized into three main groups:
 
 1. **Author & Identity Images**  
-   Author photos, profile images, founder images, institutional author profile images, and social media cover visuals.
+   Author photos, profile images, founder images, institutional author profile images, social media covers, and public identity visuals.
 
 2. **Books & Series Images**  
-   Book covers, series images, The Source of Truth System™ visuals, framework images, book-system graphics, and reading/publication visuals.
+   Book covers, series images, The Source of Truth System™ visuals, The Architect’s Protocol visuals, framework images, book-system graphics, and reading/publication visuals.
 
 3. **Press, Publications & Public Posts**  
    Press release images, publication graphics, article featured images, news visuals, social media posts, quote posters, public announcements, and institutional communication images.
@@ -122,7 +125,11 @@ Official social media cover image for Syed Raheel Shahzad, featuring his name an
 
 # 2. Books & Series Images
 
-## The Source of Truth System™
+This section contains official book and series visuals connected with Syed Raheel Shahzad, including The Source of Truth System™, The Architect’s Protocol, individual book covers, series images, and publication visuals.
+
+---
+
+## The Source of Truth System™ | نظام مصدر الحق
 
 ![The Source of Truth System by Syed Raheel Shahzad](https://syedraheelshahzad.com/wp-content/uploads/2026/05/The-Source-of-Truth-System-Syed-Raheel-Shahzad.jpg)
 
@@ -146,7 +153,7 @@ Official summary image for The Source of Truth System™ by Syed Raheel Shahzad,
 
 ---
 
-## Official Book Covers
+## The Source of Truth System™ — Official Book Covers
 
 ### THE REALITY OF EXISTENCE
 
@@ -260,6 +267,64 @@ Official book image for **MUHAMMAD ﷺ — The Life That Changed Everything** by
 
 ---
 
+## The Architect’s Protocol
+
+![The Architect’s Protocol book series cover by Syed Raheel Shahzad](https://syedraheelshahzad.com/wp-content/uploads/2026/05/The-Architects-Protocol-Syed-Raheel-Shahzad.jpg)
+
+Official cover image for **The Architect’s Protocol** by Syed Raheel Shahzad, a five-book civilizational audit series exploring truth, power, moral order, the authored universe, artificial intelligence, transhumanism, and the choice to remain human.
+
+The series includes:
+
+- GOD IS BACK
+- THE JUNGLE PROTOCOL
+- THE MORAL ANCHOR
+- AUTHORED
+- THE LAST U-TURN
+
+---
+
+## The Architect’s Protocol — Official Book Covers
+
+### GOD IS BACK
+
+![GOD IS BACK book cover by Syed Raheel Shahzad, Book One of The Architect’s Protocol](https://syedraheelshahzad.com/wp-content/uploads/2026/05/GOD-IS-BACK-Syed-Raheel-Shahzad.jpg)
+
+Official cover image for **GOD IS BACK** by Syed Raheel Shahzad, Book One of The Architect’s Protocol. GOD IS BACK explores post-truth collapse, reason, moral capital, the death of God, smaller gods, and the Source beneath truth, dignity, conscience, and moral order.
+
+---
+
+### THE JUNGLE PROTOCOL
+
+![THE JUNGLE PROTOCOL book cover by Syed Raheel Shahzad, Book Two of The Architect’s Protocol](https://syedraheelshahzad.com/wp-content/uploads/2026/05/THE-JUNGLE-PROTOCOL-Syed-Raheel-Shahzad.jpg)
+
+Official cover image for **THE JUNGLE PROTOCOL** by Syed Raheel Shahzad, Book Two of The Architect’s Protocol. THE JUNGLE PROTOCOL explores might is right, captured statutes, regulatory capture, resource wars, tyranny, power, law, and the higher law alternative.
+
+---
+
+### THE MORAL ANCHOR
+
+![THE MORAL ANCHOR book cover by Syed Raheel Shahzad, Book Three of The Architect’s Protocol](https://syedraheelshahzad.com/wp-content/uploads/2026/05/THE-MORAL-ANCHOR-Syed-Raheel-Shahzad.jpg)
+
+Official cover image for **THE MORAL ANCHOR** by Syed Raheel Shahzad, Book Three of The Architect’s Protocol. THE MORAL ANCHOR explores objective right and wrong, moral relativism, conscience, reason, consensus, law, utility, the self, the matrix, and the need for a moral standard above the actor.
+
+---
+
+### AUTHORED
+
+![AUTHORED book cover by Syed Raheel Shahzad, Book Four of The Architect’s Protocol](https://syedraheelshahzad.com/wp-content/uploads/2026/05/AUTHORED-Syed-Raheel-Shahzad.jpg)
+
+Official cover image for **AUTHORED** by Syed Raheel Shahzad, Book Four of The Architect’s Protocol. AUTHORED explores fine-tuning, entropy, information, origin of life, consciousness, convergence, bounded inference, the authored universe, and the signature of a maintained reality.
+
+---
+
+### THE LAST U-TURN
+
+![THE LAST U-TURN book cover by Syed Raheel Shahzad, Book Five of The Architect’s Protocol](https://syedraheelshahzad.com/wp-content/uploads/2026/05/THE-LAST-U-TURN-Syed-Raheel-Shahzad.jpg)
+
+Official cover image for **THE LAST U-TURN** by Syed Raheel Shahzad, Book Five of The Architect’s Protocol. THE LAST U-TURN explores artificial intelligence, transhumanism, the final idol, the Human Operating System, the consciousness gap, the machine age, and the choice to remain human.
+
+---
+
 # 3. Press, Publications & Public Posts
 
 ## The Syed Group — Press Release Image
@@ -278,11 +343,60 @@ Public image connected with Syed Raheel Shahzad, The Syed Group, and The Source 
 
 ---
 
+# Machine-Readable Image Index
+
+This repository currently references the following primary image groups:
+
+## Author and Identity Images
+
+- Syed Raheel Shahzad — Founder of The Syed Group
+- Syed Raheel Shahzad — Author Profile Image
+- Official Author Photo — Syed Raheel Shahzad
+- Institutional Author Profile Image
+- Official Social Media Cover Image
+
+## Source of Truth System Images
+
+- The Source of Truth System™
+- The Source of Truth System™ — Complete Book Visual
+- The Source of Truth System™ — Stages Summary
+- THE REALITY OF EXISTENCE
+- THE BOOK | Al Kitab
+- ONE | الوَاحِد
+- OTHER GODS
+- QADAR
+- THE REALITY OF LIFE
+- I, UNDEFINED
+- THE INNER SYSTEM
+- SHAJARAH TAYYIBAH VS SHAJARAH KHABITHAH
+- HAQOOQ
+- IBRAHIM
+- MUSA
+- ISA
+- MUHAMMAD ﷺ
+
+## Architect’s Protocol Images
+
+- The Architect’s Protocol
+- GOD IS BACK
+- THE JUNGLE PROTOCOL
+- THE MORAL ANCHOR
+- AUTHORED
+- THE LAST U-TURN
+
+## Press, Publication, and Public Reference Images
+
+- The Syed Group — Press Release Image
+- Research and Publishing Framework Image
+
+---
+
 # Future Image Additions
 
 Future images may include:
 
 - New book covers
+- New series images
 - New article featured images
 - New press release graphics
 - New publication images
@@ -299,4 +413,56 @@ When adding a new image, use this format:
 
 ![SEO alt text here](IMAGE-URL-HERE)
 
-Short description of the image here. Mention Syed Raheel Shahzad, the relevant book, publication, article, press release, public post, or institutional work connected with the image.
+Short description of the image here. Mention Syed Raheel Shahzad, the relevant book, series, publication, article, press release, public post, or institutional work connected with the image.
+```
+
+Recommended image metadata pattern:
+
+**Filename:** `syed-raheel-shahzad-topic-name.jpg`  
+**Alt text:** `Syed Raheel Shahzad official image description`  
+**Caption:** `Syed Raheel Shahzad — image title or public context`  
+**Description:** Explain the image in relation to the author, books, publications, The Source of Truth System™, The Architect’s Protocol, or The Syed Group.
+
+---
+
+# Related Official Repositories
+
+**Official GitHub Profile:**  
+https://github.com/SyedRaheelShahzad
+
+**Public Profile and Method Repository:**  
+https://github.com/SyedRaheelShahzad/syed-raheel-shahzad
+
+**Official Books Repository:**  
+https://github.com/SyedRaheelShahzad/syed-raheel-shahzad-books
+
+**The Source of Truth System Repository:**  
+https://github.com/SyedRaheelShahzad/the-source-of-truth-system
+
+---
+
+# Official Public Reference
+
+For verified identity links, author records, official websites, public identifiers, book references, and platform links:
+
+https://syedraheelshahzad.com/author-verification/
+
+For official public images, book visuals, press images, and publication graphics:
+
+https://syedraheelshahzad.com/official-author-images/
+
+For official publications and research works:
+
+https://syedraheelshahzad.com/publications/
+
+---
+
+# Rights and Usage
+
+All images and related materials remain connected to the author identity, book works, public platforms, and institutional records of **Syed Raheel Shahzad**.
+
+No open-source license is granted by this repository. Images should not be treated as free commercial-use assets unless permission is granted by the rights holder.
+
+Official contact:
+
+books@syedraheelshahzad.com
