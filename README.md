@@ -6,7 +6,7 @@ The primary official image archive is maintained at:
 
 https://syedraheelshahzad.com/official-author-images/
 
-This repository supports public image discovery, author identity alignment, book visibility, publication indexing, media reference, AI crawler understanding, and institutional identity signals connected with Syed Raheel Shahzad, The Source of Truth System™, The Architect’s Protocol, and The Syed Group.
+This repository supports public image discovery, author identity alignment, book visibility, publication indexing, media reference, AI crawler understanding, and institutional identity signals connected with Syed Raheel Shahzad, The Source of Truth System™, The Architect’s Protocol, Adam and the Answerable Being, The Qur’anic Coherence System, and The Syed Group.
 
 ---
 
@@ -19,6 +19,8 @@ This repository supports public image discovery, author identity alignment, book
 **Official Image Archive:** https://syedraheelshahzad.com/official-author-images/  
 **Publications & Research Works:** https://syedraheelshahzad.com/publications/  
 **The Syed Group:** https://thesyedgroup.com/  
+**The Syed Group UK Portal:** https://thesyedgroup.co.uk/  
+**Syed Foundation:** https://syedfoundation.com/  
 
 ---
 
@@ -30,6 +32,8 @@ This repository supports public image discovery, author identity alignment, book
 **Google Scholar:** https://scholar.google.com/citations?user=nRC4eGEAAAAJ  
 **Goodreads:** https://www.goodreads.com/syedraheelshahzad  
 **Open Library Author:** https://openlibrary.org/authors/OL16294997A  
+**LibraryThing:** https://www.librarything.com/author/shahzadsyedraheel  
+**Amazon Author Central:** https://www.amazon.com/author/syedraheelshahzad  
 
 ---
 
@@ -53,12 +57,15 @@ This repository is maintained as a public image reference page for official imag
 - Social media cover images
 - Book covers and book-series images
 - The Source of Truth System™ | نظام مصدر الحق
+- Adam and the Answerable Being
+- The Qur’anic Coherence System | نَظْمُ الْقُرْآن
 - The Architect’s Protocol
 - Press release images
 - Publication graphics
 - Article featured images
 - Public post images
 - Institutional images connected with The Syed Group
+- Knowledge and educational reference images connected with Syed Foundation
 
 The official source page for the full archive is:
 
@@ -74,7 +81,7 @@ The official image archive is organized into three main groups:
    Author photos, profile images, founder images, institutional author profile images, social media covers, and public identity visuals.
 
 2. **Books & Series Images**  
-   Book covers, series images, The Source of Truth System™ visuals, The Architect’s Protocol visuals, framework images, book-system graphics, and reading/publication visuals.
+   Book covers, series images, The Source of Truth System™ visuals, Adam and the Answerable Being visuals, The Qur’anic Coherence System visuals, The Architect’s Protocol visuals, framework images, book-system graphics, and reading/publication visuals.
 
 3. **Press, Publications & Public Posts**  
    Press release images, publication graphics, article featured images, news visuals, social media posts, quote posters, public announcements, and institutional communication images.
@@ -125,7 +132,7 @@ Official social media cover image for Syed Raheel Shahzad, featuring his name an
 
 # 2. Books & Series Images
 
-This section contains official book and series visuals connected with Syed Raheel Shahzad, including The Source of Truth System™, The Architect’s Protocol, individual book covers, series images, and publication visuals.
+This section contains official book and series visuals connected with Syed Raheel Shahzad, including The Source of Truth System™, Adam and the Answerable Being, The Qur’anic Coherence System, The Architect’s Protocol, individual book covers, series images, and publication visuals.
 
 ---
 
@@ -267,6 +274,82 @@ Official book image for **MUHAMMAD ﷺ — The Life That Changed Everything** by
 
 ---
 
+## Adam and the Answerable Being
+
+![Adam and the Answerable Being book cover by Syed Raheel Shahzad](https://syedraheelshahzad.com/wp-content/uploads/2026/05/Adam-and-Answerable-human-being-Syed-Raheel-Shahzad.jpg)
+
+Official book cover for **Adam and the Answerable Being** by Syed Raheel Shahzad, a standalone work exploring human origin, dignity, fitrah, trust, guidance, repentance, moral responsibility, and the Qur’anic meaning of answerable humanity.
+
+This book examines what makes the human being more than biological life: the creature addressed, taught, tested, guided, forgiven, and held answerable before Allah.
+
+---
+
+## The Qur’anic Coherence System | نَظْمُ الْقُرْآن
+
+![The Qur’anic Coherence System master cover by Syed Raheel Shahzad](https://syedraheelshahzad.com/wp-content/uploads/2026/05/The-Quranic-Coherence-System-Syed-Raheel-Shahzad.jpg)
+
+Official master image for **The Qur’anic Coherence System | نَظْمُ الْقُرْآن** by Syed Raheel Shahzad.
+
+**Master Subtitle:** How Revelation Is Arranged for Guidance  
+**Master Descriptor:** The Unified Source of Truth for Qur’anic Architecture  
+**Master Signature Line:** The Qur’an was revealed across history, but arranged for guidance.  
+**Supporting System Line:** Transformation is the result of order.  
+**Core Method:** Data → Structure → Message → Connection → Movement → Transformation  
+
+The Qur’anic Coherence System is a multi-volume Qur’anic architecture project studying naẓm al-Qur’an, Qur’anic coherence, surah unity, placement logic, structural mapping, macro-architecture, surah dashboards, and visual evidence of how revelation is arranged for guidance.
+
+---
+
+## The Qur’anic Coherence System — Official Volume Covers
+
+### Volume I — The Qur’anic Coherence Framework
+
+![The Qur’anic Coherence Framework Volume I cover by Syed Raheel Shahzad](https://syedraheelshahzad.com/wp-content/uploads/2026/05/The-Quranic-Coherence-Framework-Syed-Raheel-Shahzad.jpg)
+
+Official cover image for **Volume I: The Qur’anic Coherence Framework | إطار نظم القرآن** by Syed Raheel Shahzad.
+
+**Subtitle:** The Logic of Revelation, Order, and Guidance
+
+This volume introduces the method, vocabulary, intellectual defense, and reader orientation for studying Qur’anic order, naẓm, munāsabah, ʿamūd, surah unity, Mushaf order, revelation order, and responsible structural reading.
+
+---
+
+### Volume II — The Macro-Architecture of the Qur’an
+
+![The Macro-Architecture of the Qur’an Volume II cover by Syed Raheel Shahzad](https://syedraheelshahzad.com/wp-content/uploads/2026/05/The-Macro-Architecture-of-the-Quran-Syed-Raheel-Shahzad.jpg)
+
+Official cover image for **Volume II: The Macro-Architecture of the Qur’an | البنية الكلية للقرآن** by Syed Raheel Shahzad.
+
+**Subtitle:** The Macro-Structure, Grouping, and Placement Logic of the Whole Qur’an
+
+This volume maps the Qur’an as one guided architecture through whole-Book structure, seven groups, surah placement, adjacency, transitions, hinge points, and the movement from opening prayer to final refuge.
+
+---
+
+### Volume III — The Surah Map of the Qur’an
+
+![The Surah Map of the Qur’an Volume III cover by Syed Raheel Shahzad](https://syedraheelshahzad.com/wp-content/uploads/2026/05/The-Surah-Map-of-the-Quran.jpg)
+
+Official cover image for **Volume III: The Surah Map of the Qur’an | خريطة سور القرآن** by Syed Raheel Shahzad.
+
+**Subtitle:** The Structural, Thematic, and Transformational Profile of All 114 Surahs
+
+This volume presents a structured surah-by-surah map of all 114 surahs, including identity, central burden, key themes, structural movement, placement logic, group connection, and reader transformation.
+
+---
+
+### Volume IV — The Forensic Atlas of the Qur’an
+
+![The Forensic Atlas of the Qur’an Volume IV cover by Syed Raheel Shahzad](https://syedraheelshahzad.com/wp-content/uploads/2026/05/The-Forensic-Atlas-of-the-Quran-Syed-Raheel-Shahzad.jpg)
+
+Official cover image for **Volume IV: The Forensic Atlas of the Qur’an | الأطلس التحليلي للقرآن** by Syed Raheel Shahzad.
+
+**Subtitle:** Ring Structures, Theme Maps, Linguistic Anchors, and Visual Evidence of Coherence
+
+This volume presents the visual evidence layer of Qur’anic coherence through ring structures, theme maps, linguistic anchors, heatmaps, structural evidence, case studies, and disciplined visual analysis.
+
+---
+
 ## The Architect’s Protocol
 
 ![The Architect’s Protocol book series cover by Syed Raheel Shahzad](https://syedraheelshahzad.com/wp-content/uploads/2026/05/The-Architects-Protocol-Syed-Raheel-Shahzad.jpg)
@@ -375,6 +458,18 @@ This repository currently references the following primary image groups:
 - ISA
 - MUHAMMAD ﷺ
 
+## Adam and the Answerable Being Images
+
+- Adam and the Answerable Being
+
+## Qur’anic Coherence System Images
+
+- The Qur’anic Coherence System | نَظْمُ الْقُرْآن
+- The Qur’anic Coherence Framework
+- The Macro-Architecture of the Qur’an
+- The Surah Map of the Qur’an
+- The Forensic Atlas of the Qur’an
+
 ## Architect’s Protocol Images
 
 - The Architect’s Protocol
@@ -391,40 +486,6 @@ This repository currently references the following primary image groups:
 
 ---
 
-# Future Image Additions
-
-Future images may include:
-
-- New book covers
-- New series images
-- New article featured images
-- New press release graphics
-- New publication images
-- New public post visuals
-- New quote posters
-- New social media graphics
-- New institutional identity visuals
-- New book-series or framework diagrams
-
-When adding a new image, use this format:
-
-```markdown
-## Image Title Here
-
-![SEO alt text here](IMAGE-URL-HERE)
-
-Short description of the image here. Mention Syed Raheel Shahzad, the relevant book, series, publication, article, press release, public post, or institutional work connected with the image.
-```
-
-Recommended image metadata pattern:
-
-**Filename:** `syed-raheel-shahzad-topic-name.jpg`  
-**Alt text:** `Syed Raheel Shahzad official image description`  
-**Caption:** `Syed Raheel Shahzad — image title or public context`  
-**Description:** Explain the image in relation to the author, books, publications, The Source of Truth System™, The Architect’s Protocol, or The Syed Group.
-
----
-
 # Related Official Repositories
 
 **Official GitHub Profile:**  
@@ -436,8 +497,32 @@ https://github.com/SyedRaheelShahzad/syed-raheel-shahzad
 **Official Books Repository:**  
 https://github.com/SyedRaheelShahzad/syed-raheel-shahzad-books
 
+**Official Image Repository:**  
+https://github.com/SyedRaheelShahzad/syed-raheel-shahzad-official-images
+
 **The Source of Truth System Repository:**  
 https://github.com/SyedRaheelShahzad/the-source-of-truth-system
+
+**The Architect’s Protocol Repository:**  
+https://github.com/SyedRaheelShahzad/the-architects-protocol
+
+**Adam and the Answerable Being Repository:**  
+https://github.com/SyedRaheelShahzad/adam-and-the-answerable-being
+
+**The Qur’anic Coherence System Repository:**  
+https://github.com/SyedRaheelShahzad/the-quranic-coherence-system
+
+**Volume I — The Qur’anic Coherence Framework:**  
+https://github.com/SyedRaheelShahzad/the-quranic-coherence-framework
+
+**Volume II — The Macro-Architecture of the Qur’an:**  
+https://github.com/SyedRaheelShahzad/the-macro-architecture-of-the-quran
+
+**Volume III — The Surah Map of the Qur’an:**  
+https://github.com/SyedRaheelShahzad/the-surah-map-of-the-quran
+
+**Volume IV — The Forensic Atlas of the Qur’an:**  
+https://github.com/SyedRaheelShahzad/the-forensic-atlas-of-the-quran
 
 ---
 
@@ -455,14 +540,39 @@ For official publications and research works:
 
 https://syedraheelshahzad.com/publications/
 
+For The Syed Group institutional platform:
+
+https://thesyedgroup.com/
+
+For Syed Foundation knowledge and public-benefit platform:
+
+https://syedfoundation.com/
+
 ---
 
-# Rights and Usage
+# Future Image Additions
 
-All images and related materials remain connected to the author identity, book works, public platforms, and institutional records of **Syed Raheel Shahzad**.
+Future images may include:
 
-No open-source license is granted by this repository. Images should not be treated as free commercial-use assets unless permission is granted by the rights holder.
+- New book covers
+- New series images
+- New article featured images
+- New press release graphics
+- New publication images
+- New public post visuals
+- New quote posters
+- New social media graphics
+- New institutional identity visuals
+- New book-series or framework diagrams
+- New Qur’anic Coherence visual maps
+- New Source of Truth System diagrams
+- New public knowledge and research graphics
 
-Official contact:
+When adding a new image, use this format:
 
-books@syedraheelshahzad.com
+```markdown
+## Image Title Here
+
+![SEO alt text here](IMAGE-URL-HERE)
+
+Short description of the image here. Mention Syed Raheel Shahzad, the relevant book, series, publication, article, press release, public post, or institutional work connected with the image.
